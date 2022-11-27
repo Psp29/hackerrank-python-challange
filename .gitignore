@@ -2,3 +2,5 @@ scrap.py
 \Pyspark
 PySpark/resources/file1.json
 PySpark/readin.py
+docker-compose.yml
+nginx.conf
